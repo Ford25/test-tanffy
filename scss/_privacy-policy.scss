@@ -1,0 +1,46 @@
+.privacy-policy{
+    width: 100%;
+    max-width: 2000px;
+    padding: 200px 95px 120px 95px;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+   
+
+    h1{
+        font-family: 'Crossten';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 80px;
+        line-height: 90px;
+        color: #DAAD24;   
+        padding-bottom: 35px;     
+    }
+
+    h2{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 48px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.035em;
+        color: #FFFFFF;
+        margin-top: 50px;
+    }
+
+    p{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 26px;
+        margin-top: 20px;
+        color: #FFFFFF;        
+    }
+    a{
+        color: #DAAD24;
+    }
+}
